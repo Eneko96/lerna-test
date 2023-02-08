@@ -1,6 +1,6 @@
 {
   "name": "@eneko96/lerna-test",
-  "private": true,
+  "private": false,
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
